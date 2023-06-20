@@ -1,1 +1,25 @@
-# GRUPO-6-PROC.-DE-DATOS
+# PROC.-DE-DATOS GRUPO 6
+
+## iNTEGRANTES
+
+| Nombre                | Correo                         |
+|-----------------------|--------------------------------|
+| Monserrat Gutierrez   | monserratgutierrrez@gmail.com  |
+| Carlos Hugo Gimenez   | crslhgimenez@gmail.com         |
+| Cinthia Yael Gomez    |                                |
+| Cecilia Espada        | cecilia.espada@gmail.com       |
+| Cecilia Heredia       | cordobadisena@gmail.com        |
+| Juan Ezequiel Gomez   | juanezequielgomez95@gmail.com  |
+
+
+## OBJETIVO DEL PROYECTO
+
+
+## BREVE DESCRIPCION
+
+
+## INSTRUCCIONES PARA PUESTA EN MARCHA
+
+
+## DIFICULTADES / PROBLEMAS ENCONTRADOS Y SOLUCIONES ENCONTRADAS
+
