@@ -1,6 +1,5 @@
-# PROC.-DE-DATOS GRUPO 6
-
-## iNTEGRANTES
+# PROCESMIENTO DE DATOS 
+##  GRUPO 6 - INTEGRANTES
 
 | Nombre                | Correo                         |
 |-----------------------|--------------------------------|
