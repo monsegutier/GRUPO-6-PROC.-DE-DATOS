@@ -1,4 +1,4 @@
-# PROCESMIENTO DE DATOS 
+# PROCESAMIENTO DE DATOS 
 ##  GRUPO 6 - INTEGRANTES
 
 | Nombre                | Correo                         |
