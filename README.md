@@ -5,7 +5,7 @@
 |-----------------------|--------------------------------|
 | Monserrat Gutierrez   | monserratgutierrrez@gmail.com  |
 | Carlos Hugo Gimenez   | crslhgimenez@gmail.com         |
-| Cinthia Yael Gomez    |                                |
+| Cinthia Yael Gomez    | cinthya.yael.gomez@gmail.com   |
 | Cecilia Espada        | cecilia.espada@gmail.com       |
 | Cecilia Heredia       | cordobadisena@gmail.com        |
 | Juan Ezequiel Gomez   | juanezequielgomez95@gmail.com  |
