@@ -12,8 +12,13 @@
 
 
 ## OBJETIVO DEL PROYECTO
-El objetivo principal es medir el nivel de pobreza en el país utilizando los datos recopilados en el cuarto trimestre de la Encuesta Permanente de Hogares (EPH). Se realizará un análisis de los datos socioeconómicos y de los ingresos proporcionados por los hogares encuestados en dicho trimestre. Se establecerá un umbral de pobreza que represente el nivel mínimo de ingresos requerido para satisfacer las necesidades básicas,  se calculará el índice de pobreza y se determinará el porcentaje de hogares que se encuentran en situación de pobreza en el país
+El objetivo principal es en base a los datos recopilados en el cuarto trimestre de la Encuesta Permanente de Hogares (EPH), realizar un análisis de los datos socioeconómicos de los hogares con mas bajos ingresoss en dicho trimestre. 
+Se establecerá un umbral de pobreza que represente el nivel mínimo de ingresos requerido para satisfacer las necesidades básicas, y se analizaran caracteristicas de los mismos comparativamente en los diferentes aglomerados del pais.
 
+
+## PROYECTO EN COLAB
+
+https://colab.research.google.com/github/monsegutier/GRUPO-6-PROC.-DE-DATOS/blob/main/src/crear_dataset.ipynb
 
 ## BREVE DESCRIPCION
 
