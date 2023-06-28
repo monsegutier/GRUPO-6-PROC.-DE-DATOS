@@ -22,6 +22,10 @@ https://colab.research.google.com/github/monsegutier/GRUPO-6-PROC.-DE-DATOS/blob
 
 ## BREVE DESCRIPCION
 
+En este proyecto, nos propusimos analizar la Encuesta Permanente de Hogares (EPH), en su cuarto trimestre de 2022. Para ello tomamos las referencias de la EPH desde su reformulación en 2003 realizada por el Instituto Nacional de Estadística y Censos (INDEC) de Argentina, con sus respectivas nomenclaturas e índices. 
+Este informe contiene objetivos de medición tanto de características demográficas básicas, como ocupacionales, habitacionales, educacionales y de ingresos, como migratorias. Los aspectos claves de la EPH son obtener las tasas oficiales de empleo, desocupación, subocupación y pobreza.
+Con toda esta recopilación de información, nuestro objetivo principal para este trabajo es establecer un umbral de pobreza que indique el nivel mínimo de ingresos necesario para satisfacer las necesidades básicas, y analizar la distribución de este ingreso demográficamente a nivel nacional.
+
 
 ## INSTRUCCIONES PARA PUESTA EN MARCHA
 
