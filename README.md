@@ -19,6 +19,7 @@ Se establecerá un umbral de pobreza que represente el nivel mínimo de ingresos
 ## PROYECTO EN COLAB
 
 https://colab.research.google.com/github/monsegutier/GRUPO-6-PROC.-DE-DATOS/blob/main/src/crear_dataset.ipynb
+(Ctrl + F9 para correr el proyecto completo)
 
 ## BREVE DESCRIPCION
 
