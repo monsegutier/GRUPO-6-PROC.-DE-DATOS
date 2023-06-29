@@ -27,8 +27,5 @@ Este informe contiene objetivos de medición tanto de características demográf
 Con toda esta recopilación de información, nuestro objetivo principal para este trabajo es establecer un umbral de pobreza que indique el nivel mínimo de ingresos necesario para satisfacer las necesidades básicas, y analizar la distribución de este ingreso demográficamente a nivel nacional.
 
 
-## INSTRUCCIONES PARA PUESTA EN MARCHA
-
-
 ## DIFICULTADES / PROBLEMAS ENCONTRADOS Y SOLUCIONES ENCONTRADAS
-
+Una dificultad importante relacionada con la falta de información sobre los ingresos por parte de varios encuestados, puesto que es un dato sensible y no siempre es posible que el encuestado lo brinde. Como equipo decidimos de no incluir en este informe a aquellos hogares que sus ingresos sean cero. Por ese motivo, los resultados y conclusiones obtenidas puedan verse sesgados o no reflejen adecuadamente la realidad que deseamos analizar.
