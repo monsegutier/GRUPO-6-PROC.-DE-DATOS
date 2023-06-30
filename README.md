@@ -22,6 +22,15 @@ https://colab.research.google.com/github/monsegutier/GRUPO-6-PROC.-DE-DATOS/blob
 
 (Ctrl + F9 para correr el proyecto completo)
 
+## PRESENTACION DEL PROYECTO
+
+https://www.canva.com/design/DAFmli47uJs/R5pC44S8ltEM7V7R9rcupA/edit?utm_content=DAFmli47uJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## INFORME
+
+https://docs.google.com/document/d/12cV1FsCOFgMb0urkQ1MULa-JszkbIlRA10O92FX674E/edit?usp=sharing
+
+
 ## BREVE DESCRIPCION
 
 En este proyecto, nos propusimos analizar la Encuesta Permanente de Hogares (EPH), en su cuarto trimestre de 2022. Para ello tomamos las referencias de la EPH desde su reformulación en 2003 realizada por el Instituto Nacional de Estadística y Censos (INDEC) de Argentina, con sus respectivas nomenclaturas e índices. 
